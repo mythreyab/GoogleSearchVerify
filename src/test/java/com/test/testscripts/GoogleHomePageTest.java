@@ -6,7 +6,7 @@ import com.test.commonFunctions.TestFunctions;
 
 public class GoogleHomePageTest extends TestFunctions {
 	@Test
-	  public void googletest() throws InterruptedException 
+	  public void suggestionVerification() throws InterruptedException 
 	  {
 		
 		

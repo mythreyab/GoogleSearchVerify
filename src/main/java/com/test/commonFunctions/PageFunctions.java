@@ -20,7 +20,7 @@ public class PageFunctions {
 	}
 
 	
-	public By ByLocator(String locator) {
+	/*public By ByLocator(String locator) {
 		By result = null;
 		if (locator.startsWith("//")) {
 			result = By.xpath(locator);
@@ -39,6 +39,6 @@ public class PageFunctions {
 		}
 		return result;
 	}
-
+*/
 
 }
